@@ -32,7 +32,7 @@ A modern web application for OLTP service with DuckDB.
 │   ├── main.py            # Main FastAPI application
 │   └── logs.db            # DuckDB database file
 │
-├── log-analyzer/          # Next.js frontend
+├── frontend/          # Next.js frontend
 │   ├── app/
 │   │   ├── components/    # React components
 │   │   │   ├── DateRangePicker.tsx
